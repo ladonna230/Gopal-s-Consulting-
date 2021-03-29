@@ -34,14 +34,18 @@ a:hover:not(.active) {
     text-align: center;
     font-family: Georgia, serif;
     font-weight: normal;
-    border-bottom: 5px dotted #92967d;
-    margin-top: 30px;
     }
   h2 {
     color: #92967d;
     text-align: center;
     font-size: 1.5em;
     }
+hr {border-style: none;
+  border-top-style: dotted;
+  border-color: #92967d;
+  border-width: 5px;
+  width:5%;
+}
   p {
     text-align: center;
     font-size: 1em;
