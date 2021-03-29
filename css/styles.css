@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #435560;
 }
 
 li {
@@ -19,29 +19,26 @@ li a {
 }
 
 a:hover:not(.active) {
-  background-color: #111;
+  background-color: #6e7c7c;
 }
 
 .active {
-  background-color:#b33c00;
+  background-color:#92967d;
 }
     body {
-    background-color: #a4c5c6;
-    /*bachground-image: url("paw.png");
-    background-repeat: repeat;*/
-    margin: 0 10%;
+    background-color: #c8c6a7;
     font-family: sans-serif;
     }
   h1 {
-    color: #343f56;
+    color: #435560;
     text-align: center;
     font-family: Georgia, serif;
     font-weight: normal;
-    border-bottom: 5px dotted #ff7e67;
+    border-bottom: 5px dotted #92967d;
     margin-top: 30px;
     }
   h2 {
-    color: #dd6b4d;
+    color: #92967d;
     text-align: center;
     font-size: 1.5em;
     }
@@ -51,7 +48,7 @@ a:hover:not(.active) {
     }
  img {
    padding:1px;
-   border:5px solid #35495e;
+   border:5px solid #6e7c7c;
    background-color:#ff7e67;
    width: 15%;
    margin-left: .5em;
