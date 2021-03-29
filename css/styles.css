@@ -36,8 +36,9 @@ a:hover:not(.active) {
     font-weight: normal;
     }
   h2 {
-    color: #92967d;
+    color: #435560;
     text-align: center;
+    font-family: Georgia, serif;
     font-size: 1.5em;
     }
 hr {border-style: none;
